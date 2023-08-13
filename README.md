@@ -1,4 +1,4 @@
-# login_signup
+# FLUTTER APP
 
 A new Flutter project.
 
